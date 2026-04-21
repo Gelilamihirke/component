@@ -1,0 +1,28 @@
+
+{
+  "header": {
+    "title": "Complicated inside,",
+    "highlighted": "simplified for you.",
+    "description": "We know that transparency is a key factor for your confidence.\nHere is how the whole process goes."
+  },
+  "steps": [
+    {
+      "id": 1,
+      "title": "1. Clear up the expectations",
+      "description": "After submitting your design files and project specs to your dedicated manager, he will work with you on clearing up all the details (functionality, the scope of work, delivery plan, etc.) to make sure we're on the same page. He will assist you with all your front-end projects, so at some point, he will know your needs pretty well. That's the foundation of a great partnership that delivers amazing results every time.",
+      "icon": "https://storage.googleapis.com/a1aa/image/9119b67e-1829-49dc-505b-53ec71a759ae.jpg"
+    },
+    {
+      "id": 2,
+      "title": "2. Development phase",
+      "description": "Our team of expert developers will transform your designs into fully functional code. We follow best practices and maintain clear communication throughout the development process. Regular updates and previews will be provided so you can see the progress and provide feedback.",
+      "icon": "https://storage.googleapis.com/a1aa/image/bfa6e34f-4768-424a-dd16-b8afe63e17eb.jpg"
+    },
+    {
+      "id": 3,
+      "title": "3. Delivery & support",
+      "description": "Once development is complete, we conduct thorough testing and quality assurance before delivering the final product. But our relationship doesn't end there - we provide ongoing support and maintenance to ensure your project continues to perform optimally.",
+      "icon": "https://storage.googleapis.com/a1aa/image/13a7a266-f232-41db-188b-c2521fd4176b.jpg"
+    }
+  ]
+}
