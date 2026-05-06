@@ -1,0 +1,45 @@
+@keyframes scrollLeft {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(calc(-50% - 0.5rem));
+  }
+}
+
+.slider-track {
+  display: grid;
+  animation: scrollLeft 30s linear infinite;
+  will-change: transform;
+}
+
+@media (max-width: 640px) {
+  @keyframes scrollLeft {
+    0% {
+      transform: translateX(0);
+    }
+    100% {
+      transform: translateX(calc(-50% - 0.25rem));
+    }
+  }
+  
+  .slider-track {
+    gap: 0.25rem;
+  }
+}
+
+
+
+
+@media (prefers-reduced-motion: reduce) {
+  .slider-track {
+    animation: none;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    -webkit-overflow-scrolling: touch;
+  }
+  
+  .slider-track > * {
+    scroll-snap-align: start;
+  }
+}

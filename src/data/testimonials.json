@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "mainImage": "https://storage.googleapis.com/a1aa/image/fcb9e04f-c58a-4e41-a9c8-38a60b9b3a4c.jpg",
+    "quote": "Working with htmlBurger has been a great experience for us! htmlBurger has enabled us to move quickly and expand our portfolio.",
+    "name": "Leila Tudury",
+    "position": "Director of Product",
+    "company": "Dictionary.com",
+    "thumbnails": [
+      "https://storage.googleapis.com/a1aa/image/5f63e9a0-1995-4ab0-251a-491a96589b63.jpg",
+      "https://storage.googleapis.com/a1aa/image/9d718309-ef75-4bf0-d1f8-63ed25b5c0fa.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "mainImage": "https://randomuser.me/api/portraits/women/44.jpg",
+    "quote": "The team delivered exceptional quality on time and within budget. We'll definitely work with them again!",
+    "name": "Sarah Johnson",
+    "position": "Marketing Director",
+    "company": "GlobalTech",
+    "thumbnails": [
+      "https://randomuser.me/api/portraits/women/22.jpg",
+      "https://randomuser.me/api/portraits/women/33.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "mainImage": "https://randomuser.me/api/portraits/men/32.jpg",
+    "quote": "Their attention to detail and creative solutions helped us stand out in a crowded market. Highly recommended!",
+    "name": "Michael Chen",
+    "position": "CTO",
+    "company": "Innovate Inc",
+    "thumbnails": [
+      "https://randomuser.me/api/portraits/men/22.jpg",
+      "https://randomuser.me/api/portraits/men/11.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "mainImage": "https://randomuser.me/api/portraits/women/65.jpg",
+    "quote": "We've seen a 40% increase in conversions since implementing their designs. The results speak for themselves.",
+    "name": "Emma Rodriguez",
+    "position": "E-commerce Manager",
+    "company": "ShopOnline",
+    "thumbnails": [
+      "https://randomuser.me/api/portraits/women/43.jpg",
+      "https://randomuser.me/api/portraits/women/54.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "mainImage": "https://randomuser.me/api/portraits/men/75.jpg",
+    "quote": "Professional, responsive, and creative. They understood our vision and brought it to life perfectly.",
+    "name": "David Wilson",
+    "position": "Founder & CEO",
+    "company": "StartUp Ventures",
+    "thumbnails": [
+      "https://randomuser.me/api/portraits/men/65.jpg",
+      "https://randomuser.me/api/portraits/men/55.jpg"
+    ]
+  }
+]

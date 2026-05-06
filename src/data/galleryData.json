@@ -1,0 +1,45 @@
+
+[
+  {
+    "src": "https://images.unsplash.com/photo-1551434678-e076c223a692?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "alt": "Image 1",
+    "title": "Burst - Responsive Project",
+    "description": "HTML 5 / CSS 3 project with more than 30 pages. Perfect combo of responsive design, custom Parallax, animations and JavaScript.",
+    "features": [
+      "30+ pages",
+      "HTML5 / CSS3",
+      "Responsive",
+      "Custom Parallax",
+      "Custom Animations",
+      "Custom JavaScript"
+    ]
+  },
+  {
+    "src": "https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "alt": "Image 2",
+    "title": "Portfolio - Creative Design",
+    "description": "Modern portfolio design with smooth transitions and interactive elements. Built with React and GSAP for advanced animations.",
+    "features": [
+      "Single Page Application",
+      "React.js",
+      "GSAP Animations",
+      "Responsive Layout",
+      "Dark/Light Mode",
+      "Contact Form"
+    ]
+  },
+  {
+    "src": "https://images.unsplash.com/photo-1559028012-481c04fa702d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "alt": "Image 3",
+    "title": "E-commerce Platform",
+    "description": "Full-featured online store with product catalog, shopping cart, and secure checkout system.",
+    "features": [
+      "Product Catalog",
+      "Shopping Cart",
+      "User Authentication",
+      "Payment Gateway",
+      "Order Tracking",
+      "Admin Dashboard"
+    ]
+  }
+]

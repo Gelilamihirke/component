@@ -1,0 +1,36 @@
+
+[
+  {
+    "id": "d9ddcb71-b1e8-4a29-7169-ec9e3a294235",
+    "name": "Nikolay",
+    "position": "Manager Front-End Projects",
+    "stats": [
+      { "value": "7+", "label": "Years at htmlBurger" },
+      { "value": "4+", "label": "Years as Manager" },
+      { "value": "2,700+", "label": "Projects Completed" }
+    ],
+    "bio": "Nikolay was a lead developer before moving on to the management side. Now he's not only a manager, running his team like clockwork but also a core member of our web development standards team and actively involved in training new developers."
+  },
+  {
+    "id": "95b1ad52-5c08-47ef-25e2-545bf2bfabc5",
+    "name": "Maria",
+    "position": "Senior Front-End Developer",
+    "stats": [
+      { "value": "5+", "label": "Years at htmlBurger" },
+      { "value": "8+", "label": "Years in Development" },
+      { "value": "1,500+", "label": "Projects Completed" }
+    ],
+    "bio": "Maria specializes in complex CSS animations and responsive design. She's our go-to expert for challenging front-end implementations and has trained dozens of junior developers in modern HTML/CSS techniques."
+  },
+  {
+    "id": "35999942-45fe-454e-3824-d450f2521392",
+    "name": "Alex",
+    "position": "Lead UI Developer",
+    "stats": [
+      { "value": "6+", "label": "Years at htmlBurger" },
+      { "value": "3+", "label": "Years as Team Lead" },
+      { "value": "2,000+", "label": "Projects Completed" }
+    ],
+    "bio": "Alex leads our UI development team with a focus on performance and accessibility. He's passionate about creating pixel-perfect implementations that work flawlessly across all devices and browsers."
+  }
+]

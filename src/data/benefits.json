@@ -1,0 +1,63 @@
+
+[
+  {
+    "icon": "⚙️",
+    "title": "Lifetime Support",
+    "description": "Reliability is of utmost importance to us. If any bugs emerge in the future, even months or years later, just get in touch to get them fixed."
+  },
+  {
+    "icon": "👥",
+    "title": "Dedicated Expert Manager",
+    "description": "You have your own dedicated manager with a development background. He will advise you and assist you to make sure you deliver great results to your clients."
+  },
+  {
+    "icon": "📱",
+    "title": "Responsive by Default",
+    "description": "Optimization for tablets and mobile devices is nowadays our default. No designs? That's fine. Our developers will handle it. It's part of the deal."
+  },
+  {
+    "icon": "🌀",
+    "title": "Simple Animations",
+    "description": "Things like simple carousels, tabs, accordions, sliders, lightboxes, popups, tooltips, and burger menus are on us. You don't even have to say it, we will add them."
+  },
+  {
+    "icon": "🧩",
+    "title": "CSS Framework Usage",
+    "description": "Bootstrap, Foundation, Bulma, Materialize, Skeleton. Just let us know which framework you need and we will use it. It doesn't cost extra."
+  },
+  {
+    "icon": "🖥️",
+    "title": "Retina Displays Optimization",
+    "description": "As long as your designs use @2x sized images or SVG graphics, consider retina optimization done. You don't even need to ask for it. And yes, it's free."
+  },
+  {
+    "icon": "💬",
+    "title": "Commented Markup",
+    "description": "It's worth mentioning you don't have to ever again pay extra for commented markup. Get HTML and CSS so well commented, even a child can understand."
+  },
+  {
+    "icon": "⚙️",
+    "title": "Easy to Integrate With Any CMS",
+    "description": "Fully commented, handwritten and well structured code. We follow the best practices to make our code easily integratable with any CMS."
+  },
+  {
+    "icon": "</>",
+    "title": "Own Coding Standards",
+    "description": "We've developed our own internal coding standards which guarantee the same naming convention and HTML/CSS structure on every project."
+  },
+  {
+    "icon": "✉️",
+    "title": "Modern Browsers Compatibility",
+    "description": "Pages we code look great on all modern browsers and devices. We rarely use simulators. We test our projects on real browsers and devices in our lab."
+  },
+  {
+    "icon": "</>",
+    "title": "SASS/LESS/PostCSS",
+    "description": "Using CSS preprocessors is part of our coding standards. We use them for all our projects. Just let us know which one is your favorite and we'll use it."
+  },
+  {
+    "icon": "🔄",
+    "title": "Front-End Task Runner",
+    "description": "Say Hi to Jarvis - our intelligent, fast, and reliable front-end task runner. It never lets us down and can also help with page-speed and SEO optimizations."
+  }
+]

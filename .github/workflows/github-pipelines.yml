@@ -1,0 +1,25 @@
+# name: Build and Deploy
+
+# on:
+#   push:
+#     branches: [main]
+
+# jobs:
+#   Deploy:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - name: Deploy App
+#         uses: appleboy/ssh-action@master
+#         with:
+#           host: ${{ secrets.SSH_HOST }}
+#           username: ${{ secrets.SSH_USERNAME }}
+#           password: ${{ secrets.SSH_PASSWORD }}
+#           port: 22
+          
+#           script: |
+#             echo 'Deployment successful to digital ocean'
+#             cd bilihdigital/bilih-chereta/Bilih-Chereta-Frontend
+#             git pull origin main
+#             scp -r build/* /var/www/bilihdigital/bilihchereta/bilihchereta-FE
+#             sudo systemctl restart nginx
+

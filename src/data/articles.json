@@ -1,0 +1,164 @@
+[ 
+  {
+    "imageUrl": "/assets/images/Link.png",
+    "categoryLinks": ["Design, UI, UX", "Website Examples"],
+    "title": "UI Trends That Will Shape Web Design in 2025",
+    "authorImg": "https://storage.googleapis.com/a1aa/image/ea0e2bfa-9d4d-4719-a4aa-8817f1955b5c.jpg",
+    "authorName": "Elias Tekle"
+  },
+  {
+    "imageUrl": "https://storage.googleapis.com/a1aa/image/b55e6dcd-d1fb-406d-b9cd-a08c14ad557f.jpg",
+    "categoryLinks": ["Inside htmlBurger", "Inspiration"],
+    "title": "Behind the Scenes of Our Creative Design Sprint",
+    "authorImg": "https://storage.googleapis.com/a1aa/image/c5b7403a-9510-4820-c427-ea77f60baa52.jpg",
+    "authorName": "Denitsa Zhelyazkova"
+  },
+  {
+    "imageUrl": "https://storage.googleapis.com/a1aa/image/b6ee88cb-d4c5-4144-b2a2-31ce7d609d95.jpg",
+    "categoryLinks": ["Web Development", "Insights"],
+    "title": "How Radix UI Improves Accessibility Without Sacrificing Style",
+    "authorImg": "https://storage.googleapis.com/a1aa/image/242a4c11-9bae-4cda-3967-7ff34c2ae902.jpg",
+    "authorName": "Sandra Boicheva"
+  },
+  {
+    "imageUrl": "https://storage.googleapis.com/a1aa/image/7f3ae3c4-6c3e-4413-8a3d-7f58d62b1d5e.jpg",
+    "categoryLinks": ["Inspiration", "Website Examples"],
+    "title": "10 Minimalist Portfolio Sites That Nail Clarity and Impact",
+    "authorImg": "https://storage.googleapis.com/a1aa/image/c5b7403a-9510-4820-c427-ea77f60baa52.jpg",
+    "authorName": "Denitsa Zhelyazkova"
+  },
+  {
+    "imageUrl": "https://storage.googleapis.com/a1aa/image/0ab4f389-dc86-4e4f-92e6-f83738f44fbe.jpg",
+    "categoryLinks": ["Insights", "Inside htmlBurger"],
+    "title": "Our Transition to TypeScript: What Worked and What Didn't",
+    "authorImg": "https://storage.googleapis.com/a1aa/image/ea0e2bfa-9d4d-4719-a4aa-8817f1955b5c.jpg",
+    "authorName": "Elias Tekle"
+  },
+  {
+    "imageUrl": "https://storage.googleapis.com/a1aa/image/aecf48b0-48fd-4a42-9ffb-68f337d6bb77.jpg",
+    "categoryLinks": ["Web Development", "Design, UI, UX"],
+    "title": "Creating Emotionally Resonant Interfaces With Motion",
+    "authorImg": "https://storage.googleapis.com/a1aa/image/242a4c11-9bae-4cda-3967-7ff34c2ae902.jpg",
+    "authorName": "Sandra Boicheva"
+  },
+  {
+    "imageUrl": "https://storage.googleapis.com/a1aa/image/d9ef1570-ecab-4c5c-93d2-aedc1baf126b.jpg",
+    "categoryLinks": ["Design, UI, UX", "Website Examples"],
+    "title": "UI Trends That Will Shape Web Design in 2025",
+    "authorImg": "https://storage.googleapis.com/a1aa/image/ea0e2bfa-9d4d-4719-a4aa-8817f1955b5c.jpg",
+    "authorName": "Elias Tekle"
+  },
+  {
+    "imageUrl": "https://storage.googleapis.com/a1aa/image/b55e6dcd-d1fb-406d-b9cd-a08c14ad557f.jpg",
+    "categoryLinks": ["Inside htmlBurger", "Inspiration"],
+    "title": "Behind the Scenes of Our Creative Design Sprint",
+    "authorImg": "https://storage.googleapis.com/a1aa/image/c5b7403a-9510-4820-c427-ea77f60baa52.jpg",
+    "authorName": "Denitsa Zhelyazkova"
+  },
+  {
+    "imageUrl": "https://storage.googleapis.com/a1aa/image/b6ee88cb-d4c5-4144-b2a2-31ce7d609d95.jpg",
+    "categoryLinks": ["Web Development", "Insights"],
+    "title": "How Radix UI Improves Accessibility Without Sacrificing Style",
+    "authorImg": "https://storage.googleapis.com/a1aa/image/242a4c11-9bae-4cda-3967-7ff34c2ae902.jpg",
+    "authorName": "Sandra Boicheva"
+  },
+  {
+    "imageUrl": "https://storage.googleapis.com/a1aa/image/7f3ae3c4-6c3e-4413-8a3d-7f58d62b1d5e.jpg",
+    "categoryLinks": ["Inspiration", "Website Examples"],
+    "title": "10 Minimalist Portfolio Sites That Nail Clarity and Impact",
+    "authorImg": "https://storage.googleapis.com/a1aa/image/c5b7403a-9510-4820-c427-ea77f60baa52.jpg",
+    "authorName": "Denitsa Zhelyazkova"
+  },
+  {
+    "imageUrl": "https://storage.googleapis.com/a1aa/image/0ab4f389-dc86-4e4f-92e6-f83738f44fbe.jpg",
+    "categoryLinks": ["Insights", "Inside htmlBurger"],
+    "title": "Our Transition to TypeScript: What Worked and What Didn't",
+    "authorImg": "https://storage.googleapis.com/a1aa/image/ea0e2bfa-9d4d-4719-a4aa-8817f1955b5c.jpg",
+    "authorName": "Elias Tekle"
+  },
+  {
+    "imageUrl": "https://storage.googleapis.com/a1aa/image/aecf48b0-48fd-4a42-9ffb-68f337d6bb77.jpg",
+    "categoryLinks": ["Web Development", "Design, UI, UX"],
+    "title": "Creating Emotionally Resonant Interfaces With Motion",
+    "authorImg": "https://storage.googleapis.com/a1aa/image/242a4c11-9bae-4cda-3967-7ff34c2ae902.jpg",
+    "authorName": "Sandra Boicheva"
+  }
+  ,
+  {
+    "imageUrl": "https://storage.googleapis.com/a1aa/image/b55e6dcd-d1fb-406d-b9cd-a08c14ad557f.jpg",
+    "categoryLinks": ["Inside htmlBurger", "Inspiration"],
+    "title": "Behind the Scenes of Our Creative Design Sprint",
+    "authorImg": "https://storage.googleapis.com/a1aa/image/c5b7403a-9510-4820-c427-ea77f60baa52.jpg",
+    "authorName": "Denitsa Zhelyazkova"
+  },
+  {
+    "imageUrl": "https://storage.googleapis.com/a1aa/image/b6ee88cb-d4c5-4144-b2a2-31ce7d609d95.jpg",
+    "categoryLinks": ["Web Development", "Insights"],
+    "title": "How Radix UI Improves Accessibility Without Sacrificing Style",
+    "authorImg": "https://storage.googleapis.com/a1aa/image/242a4c11-9bae-4cda-3967-7ff34c2ae902.jpg",
+    "authorName": "Sandra Boicheva"
+  },
+  {
+    "imageUrl": "https://storage.googleapis.com/a1aa/image/7f3ae3c4-6c3e-4413-8a3d-7f58d62b1d5e.jpg",
+    "categoryLinks": ["Inspiration", "Website Examples"],
+    "title": "10 Minimalist Portfolio Sites That Nail Clarity and Impact",
+    "authorImg": "https://storage.googleapis.com/a1aa/image/c5b7403a-9510-4820-c427-ea77f60baa52.jpg",
+    "authorName": "Denitsa Zhelyazkova"
+  },
+  {
+    "imageUrl": "https://storage.googleapis.com/a1aa/image/0ab4f389-dc86-4e4f-92e6-f83738f44fbe.jpg",
+    "categoryLinks": ["Insights", "Inside htmlBurger"],
+    "title": "Our Transition to TypeScript: What Worked and What Didn't",
+    "authorImg": "https://storage.googleapis.com/a1aa/image/ea0e2bfa-9d4d-4719-a4aa-8817f1955b5c.jpg",
+    "authorName": "Elias Tekle"
+  },
+  {
+    "imageUrl": "https://storage.googleapis.com/a1aa/image/aecf48b0-48fd-4a42-9ffb-68f337d6bb77.jpg",
+    "categoryLinks": ["Web Development", "Design, UI, UX"],
+    "title": "Creating Emotionally Resonant Interfaces With Motion",
+    "authorImg": "https://storage.googleapis.com/a1aa/image/242a4c11-9bae-4cda-3967-7ff34c2ae902.jpg",
+    "authorName": "Sandra Boicheva"
+  },
+  {
+    "imageUrl": "https://storage.googleapis.com/a1aa/image/d9ef1570-ecab-4c5c-93d2-aedc1baf126b.jpg",
+    "categoryLinks": ["Design, UI, UX", "Website Examples"],
+    "title": "UI Trends That Will Shape Web Design in 2025",
+    "authorImg": "https://storage.googleapis.com/a1aa/image/ea0e2bfa-9d4d-4719-a4aa-8817f1955b5c.jpg",
+    "authorName": "Elias Tekle"
+  },
+  {
+    "imageUrl": "https://storage.googleapis.com/a1aa/image/b55e6dcd-d1fb-406d-b9cd-a08c14ad557f.jpg",
+    "categoryLinks": ["Inside htmlBurger", "Inspiration"],
+    "title": "Behind the Scenes of Our Creative Design Sprint",
+    "authorImg": "https://storage.googleapis.com/a1aa/image/c5b7403a-9510-4820-c427-ea77f60baa52.jpg",
+    "authorName": "Denitsa Zhelyazkova"
+  },
+  {
+    "imageUrl": "https://storage.googleapis.com/a1aa/image/b6ee88cb-d4c5-4144-b2a2-31ce7d609d95.jpg",
+    "categoryLinks": ["Web Development", "Insights"],
+    "title": "How Radix UI Improves Accessibility Without Sacrificing Style",
+    "authorImg": "https://storage.googleapis.com/a1aa/image/242a4c11-9bae-4cda-3967-7ff34c2ae902.jpg",
+    "authorName": "Sandra Boicheva"
+  },
+  {
+    "imageUrl": "https://storage.googleapis.com/a1aa/image/7f3ae3c4-6c3e-4413-8a3d-7f58d62b1d5e.jpg",
+    "categoryLinks": ["Inspiration", "Website Examples"],
+    "title": "10 Minimalist Portfolio Sites That Nail Clarity and Impact",
+    "authorImg": "https://storage.googleapis.com/a1aa/image/c5b7403a-9510-4820-c427-ea77f60baa52.jpg",
+    "authorName": "Denitsa Zhelyazkova"
+  },
+  {
+    "imageUrl": "https://storage.googleapis.com/a1aa/image/0ab4f389-dc86-4e4f-92e6-f83738f44fbe.jpg",
+    "categoryLinks": ["Insights", "Inside htmlBurger"],
+    "title": "Our Transition to TypeScript: What Worked and What Didn't",
+    "authorImg": "https://storage.googleapis.com/a1aa/image/ea0e2bfa-9d4d-4719-a4aa-8817f1955b5c.jpg",
+    "authorName": "Elias Tekle"
+  },
+  {
+    "imageUrl": "https://storage.googleapis.com/a1aa/image/aecf48b0-48fd-4a42-9ffb-68f337d6bb77.jpg",
+    "categoryLinks": ["Web Development", "Design, UI, UX"],
+    "title": "Creating Emotionally Resonant Interfaces With Motion",
+    "authorImg": "https://storage.googleapis.com/a1aa/image/242a4c11-9bae-4cda-3967-7ff34c2ae902.jpg",
+    "authorName": "Sandra Boicheva"
+  }
+]
