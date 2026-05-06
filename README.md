@@ -1,4 +1,4 @@
-# JSL Landing Page
+#  Landing Page
 ## GitHub Collaboration Guideline (Team-Friendly)
 ### TL;DR
 - Use branches like feature/* and fix/*.
